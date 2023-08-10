@@ -1,2 +1,2 @@
 # VENDOSMARTAssignment
-Created with CodeSandbox
+A simple movie search app.
